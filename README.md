@@ -1,29 +1,45 @@
 # UCDPA_DanielRees
-Introductory Data Analytics (Project)
 
-Data Analysis project to see if countries with successful athletes have a healthier general population.Using the WHO health stats for countries and the olympic medals each of these countries have won.
+## Intro
+
+This introductory data analytics project explores whether countries with successful Olympic athletes tend to have healthier general populations.
+
+The project uses:
+
+- WHO health statistics
+- Olympic medal data by country
+
+After cleaning and analysing the datasets, the results suggest there is little to no correlation between Olympic success and the overall health of a country's population.
+
+---
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Data cleaning
+- Exploratory data analysis
+- Data visualisation with graphs
+
+---
 
 ## Installation
 
-Steps to install the project.
+Run the `.ipynb` notebook file using Jupyter Notebook.
+
+---
 
 ## Usage
 
-Explain how to use it.
+The notebook compares Olympic medal counts with different health indicators using simple graphs and visualisations.
 
-## Screenshots
-
-Add pictures here.
+---
 
 ## Future Plans
 
-Things you want to add later.
+The Olympic dataset is a useful way to compare elite athletic success between countries. However, interest in the Olympics and athletics may have decreased over time, meaning Olympic athletes may no longer strongly influence the general population.
+
+A future improvement could be to analyse other influential public figures or modern cultural trends to see whether they have a stronger relationship with population health.
+
+---
 
 ## Author
 
