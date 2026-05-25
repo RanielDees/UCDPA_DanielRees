@@ -6,8 +6,10 @@ This introductory data analytics project explores whether countries with success
 
 The project uses:
 
-- WHO health statistics
-- Olympic medal data by country
+- Olympic_results.csv
+- Olympic_medals.csv
+- World_population.csv
+- Who_life_exp.csv
 
 After cleaning and analysing the datasets, the results suggest there is little to no correlation between Olympic success and the overall health of a country's population.
 
